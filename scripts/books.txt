@@ -1,0 +1,32 @@
+Title: Introduction to Computer Science
+Author: John Smith
+ISBN: 978-1-2345-6789-0
+Published Year: 2020
+Pages: 300
+
+Chapter 1: Basics of Programming
+Chapter 2: Data Structures
+Chapter 3: Algorithms
+Chapter 4: Object-Oriented Programming
+
+Title: Fundamentals of Data Science
+Author: Jane Doe
+ISBN: 978-0-9876-5432-1
+Published Year: 2019
+Pages: 250
+
+Chapter 1: Introduction to Data Science
+Chapter 2: Data Collection and Cleaning
+Chapter 3: Data Analysis
+Chapter 4: Machine Learning
+
+Title: Web Development Basics
+Author: Michael Johnson
+ISBN: 978-5-4321-0987-6
+Published Year: 2021
+Pages: 200
+
+Chapter 1: HTML and CSS Basics
+Chapter 2: JavaScript Fundamentals
+Chapter 3: Introduction to Frontend Frameworks
+Chapter 4: Backend Development Basics
